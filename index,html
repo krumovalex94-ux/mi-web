@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera web</title>
+</head>
+<body>
+  <h1>Hola, esta es mi web 👋</h1>
+  <p>Hecha por mí.</p>
+</body>
+</html>
